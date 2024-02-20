@@ -1,0 +1,18 @@
+digraph arbol {
+    CEO -> RRHH
+    CEO -> TI
+    CEO -> MARKETING
+    RRHH -> NK
+    RRHH -> MJ
+    RRHH -> FK
+    RRHH -> YS
+    TI -> SK
+    TI -> D
+    TI -> AS
+    TI -> M
+    MARKETING -> RW
+    MARKETING -> E
+    MARKETING -> T
+    MARKETING -> X
+    MARKETING -> W
+}
